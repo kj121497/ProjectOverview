@@ -26,6 +26,8 @@ I conducted a usability test to understand the extent of user freedom and how ac
 
 He performed three tasks. The first task included steps to test how users accessed their Likes page. The second task included steps to test if a user was able to control the way they watched a video. The third task included steps to test if a user could control the way they uploaded an image. My participant was not able to thoroughly perform each task, leading him to unsatisfied with his application experience; thus, alerting me Instagram needed to improve. [read more...](https://github.com/kj121497/kj2)
 
+Click [here](https://www.youtube.com/watch?v=sOBqaDtVc2A) to view my usability test.
+
 ### User Research 
 
 Though I was able to learn a lot from usability testing, I needed to know more information about how a different user navigates Instagram and what their thoughts were on an (slightly) updated set of usability tasks I had come up with. My participant was a friend, another college senior, who is an advanced user of Instagram. Thus, she would be familiar with the problems I would pose. I interviewed to learn how she would utilize Instagram to find old or specific posts on profile pages and her “Posts You’ve Liked” page. Most notably, she observed the endless scrolling was a feature she was unsatisfied with, which allowed me to design a Likes page with this thought in mind. [read more...](https://github.com/kj121497/kj3)
