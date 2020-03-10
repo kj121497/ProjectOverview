@@ -13,7 +13,7 @@ My goal of the project was to resolve the lack of user control and freedom as we
 
 #### Heuristic Evaluation
 
-I chose to focus on one popular social media platform, Instagram (available to download here), to conduct a heuristic evaluation based on Jakob Nielsen’s “10 Usability Heuristics for User Interface Design” and gain insight into what issues need to be resolved. [read more...](https://github.com/kj121497/kj)
+I chose to focus on one popular social media platform, Instagram (available to download [here](https://apps.apple.com/bn/app/instagram/id389801252) on mobile), to conduct a heuristic evaluation based on Jakob Nielsen’s “10 Usability Heuristics for User Interface Design” and gain insight into what issues need to be resolved. [read more...](https://github.com/kj121497/kj)
 
 ###### Instgram
 <img src="IMG_6369.PNG" width="250"> <img src="IMG_6368.PNG" width="250"> <img src="IMG_6367.PNG" width="250">
@@ -74,7 +74,7 @@ From usability testing, user research, and personas and scenarios, I created a l
 
 ### High-Fidelity Prototype
 
-With the help of Figma, I was able to create a high-fidelity prototype using the wireframes, wireflow, and feedback from the low-fidelity prototype testing. The advanced version includes features that are easier to detect and view (automatic over manual. It includes two different color schemes—the original version, with a soothing and aesthetic color scheme and Dark Mode, with colors of the original scheme to make it unique as my mobile application. [read more...](https://github.com/kj121497/assignment8)
+With the help of Figma, I was able to create a high-fidelity prototype using the wireframes, wireflow, and feedback from the low-fidelity prototype testing. The advanced version includes features that are easier to detect and view (automatic over manual). It includes two different color schemes—the original version, with a soothing and aesthetic color scheme and Dark Mode, with colors of the original scheme to make it unique as my mobile application. [read more...](https://github.com/kj121497/assignment8)
 
 <img src="5017B6BB-F7FC-4346-92EF-C22F5752BE97_4_5005_c.jpeg">
 
