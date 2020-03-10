@@ -86,5 +86,8 @@ Experience the Dark Mode prototype [here](https://www.figma.com/proto/uKlJtPJhNT
 
 ### Pitch Video
 
+Click here to view my pitch video about UPLOADIT.
 
 ### Conclusion
+
+The course on UX design and research has been very valuable and eye-opening as to what I want to pursue as a career. I have gained a set of skills and learned to work with programs outside of my field of expertise.  I learned the incredible importance of low-fidelity prototyping to high-fidelity prototyping. The former is vital in order to gauge changes in features. For example, I originally intended to have a pull-down search bar on Profile pages; however, through low-fidelity prototyping I learned a manual feature can be inaccessible to users. In the process, I learned how important it is to have a functioning application and to take into account users’ opinions on how the app should cater to their needs, control, and freedom. I will definitely carry these skills outside of coursework. 
