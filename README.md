@@ -36,9 +36,29 @@ I created my personas based off of experience with Instgram to gauge the needs o
 
 #### Persona 1
 
+<img src="1E76D573-354A-4735-B18C-9255832FF0A0.jpeg" width="500">
 
+###### Journey Map
 
+<img src="EFFAF2EB-9EAC-4B70-A885-514553545217.jpeg" width="500">
 
+#### Persona 2
+
+<img src="799CB835-E96A-4A33-9026-A20C19134715.jpeg" width="500">
+
+###### Journey Map
+
+<img src="D5819D9A-51AD-4CE6-B97A-46452741EA8C.jpeg" width="500">
+
+#### Persona 3
+
+<img src="8F9020C7-C016-4E0E-A52F-84F638743AAA.jpeg" width="500">
+
+#### Journey Map
+
+<img src="1E981133-13B3-42B4-B0A7-D721C84D1CD6.jpeg" width="500">
+
+[read more...](https://github.com/kj121497/kj4)
 
 ### Wireframe and Graphic Design Element Variations
 
