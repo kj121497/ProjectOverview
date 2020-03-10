@@ -86,7 +86,7 @@ Experience the Dark Mode prototype [here](https://www.figma.com/proto/uKlJtPJhNT
 
 ### Pitch Video
 
-Click here to view my pitch video about UPLOADIT.
+Click [here](https://youtu.be/sByb7JCv-HY) to view my pitch video about UPLOADIT.
 
 ### Conclusion
 
