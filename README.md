@@ -32,6 +32,13 @@ Though I was able to learn a lot from usability testing, I needed to know more i
 
 ### UX Storytelling
 
+I created my personas based off of experience with Instgram to gauge the needs of familiar and unfamiliar users.
+
+#### Persona 1
+
+
+
+
 
 ### Wireframe and Graphic Design Element Variations
 
