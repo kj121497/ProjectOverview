@@ -15,6 +15,9 @@ My goal of the project was to resolve the lack of user control and freedom as we
 
 I chose to focus on one popular social media platform, Instagram (available to download here), in order to conduct a heuristic evaluation based off of Jakob Nielsen’s “10 Usability Heuristics for User Interface Design” and gain insight into what issues needed to be resolved. [read more...](https://github.com/kj121497/kj)
 
+###### Instgram
+<img src="IMG_6369.PNG" width="250"> <img src="IMG_6368.PNG" width="250"> <img src="IMG_6367.PNG" width="250">
+
 
 ### Competitor Analysis
 
