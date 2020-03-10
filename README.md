@@ -3,6 +3,7 @@
 
 ### Introduction
 
+UPLOADIT is a novel UX design of a mobile app that produces a simple, user accessible experience of image sharing, image viewing, video viewing, and Liking (an important part of sharing and viewing content). 
 
 ### Design Statement
 
