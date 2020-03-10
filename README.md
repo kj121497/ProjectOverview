@@ -54,17 +54,19 @@ I created my personas based off of experience with Instgram to gauge the needs o
 
 <img src="8F9020C7-C016-4E0E-A52F-84F638743AAA.jpeg" width="500">
 
-#### Journey Map
+###### Journey Map
 
 <img src="1E981133-13B3-42B4-B0A7-D721C84D1CD6.jpeg" width="500">
 
 [read more...](https://github.com/kj121497/kj4)
 
-### Wireframe and Graphic Design Element Variations
+### Graphic Design Element Variations
 
+In this assigment, I learned how to create accessible color schemes and how to audit those color schemes to test accessbility. [read more...](https://github.com/kj121497/assignment7) 
 
-### Low-Fidelity Prototype
+### Low-Fidelity Prototype (Wireframes, Wireflow, and Testing)
 
+From usability testing, user research, and personas and scenarios, I created a low-fidelity prototype (which includes wireframes and a wireflow) to lay out three different tasks. The first task maps out a search bar and date tabs within Profiles. The second task maps out number of pages, number of Likes, and a Likes page incorporated as a navigation feature. The third task maps out video control buttons. [read more...](https://github.com/kj121497/kj5)
 
 ### High-Fidelity Prototype
 
