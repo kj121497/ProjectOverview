@@ -72,7 +72,11 @@ From usability testing, user research, and personas and scenarios, I created a l
 
 ### High-Fidelity Prototype
 
-With the help of Figma, I was able to creat a high-fidelity prototype using the wireframes, wireflow, and feedback from the low-fidelity prototype testing. The advanced version includes features that are easier to detect and view (automatic over manual. It includes two different color schemes—the orginal version, with a soothing and aestheic color scheme and Dark Mode, with colors of the orginal scheme to make it unique as my mobile application. 
+With the help of Figma, I was able to creat a high-fidelity prototype using the wireframes, wireflow, and feedback from the low-fidelity prototype testing. The advanced version includes features that are easier to detect and view (automatic over manual. It includes two different color schemes—the orginal version, with a soothing and aestheic color scheme and Dark Mode, with colors of the orginal scheme to make it unique as my mobile application. [read more...](https://github.com/kj121497/assignment8)
+
+<img src="5017B6BB-F7FC-4346-92EF-C22F5752BE97_4_5005_c.jpeg">
+
+<img src="C549DF33-7DAB-4ADD-8AF5-7AF95479E575_4_5005_c.jpeg">
 
 ### Pitch Video
 
