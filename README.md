@@ -66,11 +66,9 @@ In this assigment, I learned how to create accessible color schemes and how to a
 
 ### Low-Fidelity Prototype (Wireframes, Wireflow, and Testing)
 
-From usability testing, user research, and personas and scenarios, I created a low-fidelity prototype (which includes wireframes and a wireflow) to lay out three different tasks. The first task maps out a search bar and date tabs within Profiles. The second task maps out number of pages, number of Likes, and a Likes page incorporated as a navigation feature. The third task maps out video control buttons. 
+From usability testing, user research, and personas and scenarios, I created a low-fidelity prototype (which includes wireframes and a wireflow) to lay out three different tasks. The first task maps out a search bar and date tabs within Profiles. The second task maps out number of pages, number of Likes, and a Likes page incorporated as a navigation feature. The third task maps out video control buttons. [read more...](https://github.com/kj121497/kj5)
 
 <img src="5C668A30-7082-4698-AEDC-D2245A2C1C3B.jpeg" width="600">
-
-[read more...](https://github.com/kj121497/kj5)
 
 ### High-Fidelity Prototype
 
