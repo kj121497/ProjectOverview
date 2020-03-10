@@ -18,11 +18,13 @@ I chose to focus on one popular social media platform, Instagram (available to d
 ###### Instgram
 <img src="IMG_6369.PNG" width="250"> <img src="IMG_6368.PNG" width="250"> <img src="IMG_6367.PNG" width="250">
 
-
 ### Competitor Analysis
 
 #### Usability Testing
 
+I conducted a usability test to understand the extent of user freedom and how accessible Instagram currently is. My participant is a friend, a college senior, who has used Instgram in the past, but no longer uses it. Though he does not use Instgram, he is familiar with the way social media applications work. Thus, I thought he would be a perfect participant to gauge the way in which a user that is both familiar and unfamiliar with the app navigates it. 
+
+He performed three tasks. The first task included steps to test how users accessed their Likes page. The second task included steps to test if a user was able to control the way they watched a video. The third task included steps to test if a user could control the way they uploaded an image. My participant was not able to thoroughly perform each task, leading him to unsatisfied with his application experience; thus, alerting me Instagram needed to improve. [read more...](https://github.com/kj121497/kj2)
 
 ### User Research 
 
