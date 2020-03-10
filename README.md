@@ -44,7 +44,7 @@ I created my personas based off of experience with Instgram to gauge the needs o
 
 #### Persona 2
 
-<img src="799CB835-E96A-4A33-9026-A20C19134715.jpeg" width="500">
+<img src="799CB835-E96A-4A33-9026-A20C19134715.jpeg" width="500"> 
 
 ###### Journey Map
 
