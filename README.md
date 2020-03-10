@@ -78,6 +78,10 @@ With the help of Figma, I was able to creat a high-fidelity prototype using the 
 
 <img src="C549DF33-7DAB-4ADD-8AF5-7AF95479E575_4_5005_c.jpeg">
 
+Experience the prototype [here](https://www.figma.com/proto/GrhctrA6nZANz2fAeeZ4VU/High-Fidelity-Prototype-(DH-150)?node-id=6%3A4&scaling=scale-down).
+
+Experience the Dark Mode prototype [here](https://www.figma.com/proto/uKlJtPJhNTEL4bYMT2T1AT/High-Fidelity-Prototype-(DH-150)-(Copy)?node-id=6%3A4&scaling=scale-down).
+
 ### Pitch Video
 
 
